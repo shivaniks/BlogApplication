@@ -1,0 +1,20 @@
+/*.body{
+    background-image: "IMAGE.png";
+} */
+img{
+    width:20%
+}
+.Box1{
+    padding-top: 10px;
+    margin:2px auto ;
+    width:300px;
+    height:350px;
+    box-shadow : 5px 2px 5px 2px rgb(0 0 0/0.6)
+}
+.inner{
+    margin-top: 20px;
+}
+.Button{
+    
+    margin-top: 30px;
+}
