@@ -61,7 +61,7 @@ if(file){
     data.append("name",file.name);
     data.append("file",file);
     // API CALL
-    const response=await API.uploadFile(data);
+    const response=await API.UploadFile(data);
 
     post.picture= response.data;
 }
